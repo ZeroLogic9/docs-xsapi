@@ -24,10 +24,6 @@ XBL3.0 Token
 {% endapi-method-headers %}
 
 {% api-method-query-parameters %}
-{% api-method-parameter name="continuationToken" type="string" required=false %}
-
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="unlockedOnly" type="boolean" required=false %}
 Will only show achievements that have been unlocked or in progress. Can only be 'true' or 'false'.
 {% endapi-method-parameter %}
