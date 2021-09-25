@@ -2,10 +2,10 @@
 
 ## To Do
 
-Authentication flow  
-  
-\#.xboxlive.com Subdomains  
-  
+Authentication flow
+
+\#.xboxlive.com Subdomains
+
 Profile  
 Titlehub  
 Achievements  
@@ -17,10 +17,7 @@ Clubhub
 Leaderboards  
 Userstats  
 Xccs  
-Social  
-
+Social
 
 \*\*\*\*
-
-
 

@@ -16,6 +16,7 @@
 
 ## API Reference
 
+* [Achievements](api-reference/achievements.md)
 * [Profile](api-reference/profile/README.md)
   * [GET Profile for a user or users](api-reference/profile/get-profile-for-a-user-or-users.md)
 
