@@ -18,10 +18,6 @@ Can be either 'xuid\(12345\)', 'gt\(myGamertag\)', or 'me'.
 {% endapi-method-path-parameters %}
 
 {% api-method-headers %}
-{% api-method-parameter name="x-xbl-contract-version" type="string" required=true %}
-3
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="Authorization" type="string" required=true %}
 XBL3.0 Token
 {% endapi-method-parameter %}

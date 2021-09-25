@@ -37,7 +37,7 @@ The maximum amount of items that can be received.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="orderBy" type="string" required=false %}
-Priorities achievements from top to bottom. 
+Priorities achievements from top to bottom.
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="titleId" type="integer" required=false %}
@@ -52,7 +52,7 @@ A Title ID that grabs achievement through that title. Example: 950328474
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
   "achievements": [
     {
@@ -125,8 +125,5 @@ A Title ID that grabs achievement through that title. Example: 950328474
     'EndingSoon',
     'titleId',
 ]
-    
 ```
-
-
 
